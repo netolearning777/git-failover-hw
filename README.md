@@ -27,7 +27,7 @@
 [Посмотреть compute.tf](compute.tf)
 
 `Скриншоты`
-![Название скриншота 1](https://gi)
-![Название скриншота 2](https://gi)
+![Название скриншота 1]([https://gi](https://github.com/netolearning777/git-failover-hw/blob/main/img/2026-08-11_13-34-15.png))
+![Название скриншота 2]([https://gi](https://github.com/netolearning777/git-failover-hw/blob/main/img/VirtualBox_ubuntu-desktop-24_11_08_2026_13_33_44.png))
 
 ---
