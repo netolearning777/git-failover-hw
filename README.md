@@ -24,13 +24,13 @@
 - обе виртуальные машины в целевой группе находятся в состоянии healthy.
 4. Сделайте запрос на 80 порт на внешний IP-адрес балансировщика и убедитесь, что вы получаете ответ в виде дефолтной страницы Nginx.
 
-[Посмотреть compute.tf](compute.tf)  
-[Посмотреть lb.tf](lb.tf)  
-[Посмотреть network.tf](network.tf)  
-[Посмотреть providers.tf](providers.tf)  
-[Посмотреть variables.tf](variables.tf)  
-[Посмотреть bastion-cloud-init.yml](bastion-cloud-init.yml)  
-[Посмотреть web-cloud-init.yml](web-cloud-init.yml)  
+[Посмотреть compute.tf](compute.tf)
+[Посмотреть lb.tf](lb.tf)
+[Посмотреть network.tf](network.tf)
+[Посмотреть providers.tf](providers.tf)
+[Посмотреть variables.tf](variables.tf)
+[Посмотреть bastion-cloud-init.yml](bastion-cloud-init.yml)
+[Посмотреть web-cloud-init.yml](web-cloud-init.yml)
 
 `Скриншоты`
 ![Название скриншота 1](https://github.com/netolearning777/git-failover-hw/blob/main/img/2026-08-11_13-34-15.png)
