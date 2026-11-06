@@ -5,7 +5,7 @@ users:
     shell: /bin/bash
     sudo: ["ALL=(ALL) NOPASSWD:ALL"]
     ssh_authorized_keys:
-      - "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAElHgfJ43Mx5yfim2u0jV+Ao7x6h732KWcfX2Fya0lX admin@ubuntu-desktop-24"
+      - "ssh-ed25519 <YOUR_PUBLIC_SSH_KEY_HERE> user@hostname"
 
 package_update: true
  
